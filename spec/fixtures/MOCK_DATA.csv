@@ -1,0 +1,10 @@
+product_name,photo_url,barcode,price_cents,sku (unique id),producer
+Chocolate - Feathers,http://dummyimage.com/189x206.jpg/5fa2dd/ffffff,9751,7963,4648a782-69ce-4b9b-b109-ecf80906b74b,Abbott LLC
+Bagel - Everything,http://dummyimage.com/104x193.bmp/dddddd/000000,80051,29096,7a68199f-3de0-4c01-bb5a-9a33585e6bcc,Abbott LLC
+"Bread - Bagels, Plain",http://dummyimage.com/247x245.bmp/5fa2dd/ffffff,2772,60593,eac4694b-11f6-4ddd-a3b9-2339dd235db8,"Abbott, Rutherford and Moore"
+Oil - Pumpkinseed,http://dummyimage.com/150x229.jpg/ff4444/ffffff,200,94800,350df34f-ca5c-4c4d-9f84-0a8162498d44,"Abshire, Gibson and Osinski"
+Venison - Striploin,http://dummyimage.com/170x229.jpg/cc0000/ffffff,2727,19676,f3389182-30f7-4571-92a7-10add4c31dbe,Adams-Baumbach
+Couscous,http://dummyimage.com/181x209.bmp/5fa2dd/ffffff,73014,99024,a870d64a-9b75-452a-a181-0e75826f1ae3,Altenwerth Inc
+Marjoram - Fresh,http://dummyimage.com/230x118.jpg/cc0000/ffffff,7402,58798,1351a2c5-7dff-47f1-9f11-b7b65693a6e7,Anderson Group
+Shrimp - Black Tiger 16/20,http://dummyimage.com/220x243.jpg/dddddd/000000,E8115,63536,851635e6-9fe6-472c-97f6-9743a0b859d7,Ankunding and Sons
+Cookies - Fortune,http://dummyimage.com/173x201.jpg/dddddd/000000,80456,46394,51591cb8-bce7-4133-9d97-259b6841fa5e,"Armstrong, Price and Johnson"
